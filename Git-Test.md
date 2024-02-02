@@ -16,3 +16,6 @@ Git-command(ненумерованые)
 - git pull
 - git push
 
+## Markdown
+ text-пиши полужирным  **вот так**, а курсивом *вот так*
+
