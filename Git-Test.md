@@ -9,7 +9,7 @@ Git-command(нумерованные.md)
 3. git status
 4. git branch
 
-Git-command(ненумерованые)
+## Git-command(ненумерованые)
 - git commit
 - git checkout
 - git log
