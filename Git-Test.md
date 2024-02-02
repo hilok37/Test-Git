@@ -8,3 +8,11 @@ Git-command(нумерованные.md)
 2. git add
 3. git status
 4. git branch
+
+Git-command(ненумерованые)
+- git commit
+- git checkout
+- git log
+- git pull
+- git push
+
