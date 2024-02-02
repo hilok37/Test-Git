@@ -3,8 +3,10 @@
 
 Markdown-работа с изображениями-чтобы вставить изображение в текст, нужно сделать следующее: ![Привет Git!](slide-5.jpg)
 
-Git-command(нумерованные.md)
+## Git-command(нумерованные.md)
 1. git init
 2. git add
 3. git status
 4. git branch
+
+
